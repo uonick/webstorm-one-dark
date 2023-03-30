@@ -2,6 +2,6 @@
 
 WebStorm Atom One Dark (improved version)
 
-# Screenshot
+### Screenshot
 
 ![Theme screenshot](screenshot.png)
